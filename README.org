@@ -1,0 +1,10 @@
+* sb-cga
+
+Computer graphics algebra library for SBCL
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/nikodemus/sb-cga.git   |
+| commit  | 9a554ea  |
+| systems | sb-cga |
+|---------+-------------------------------------------|
+
